@@ -1,3 +1,4 @@
 Attendance list
 ------------------
 Hsinheng Albert Lin
+This is the statement added through fork 
